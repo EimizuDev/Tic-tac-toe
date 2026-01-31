@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-This project is a Tic-Tac-Toe game against an AI player.
+This project is a Tic-Tac-Toe game against an AI player. I made this project from a Python course in 2024.
 
 ## Getting the files
 
